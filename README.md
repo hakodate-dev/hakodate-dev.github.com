@@ -1,6 +1,6 @@
-# 俺のゼニはどこ行った for 横浜
+# 税金はどこへ行った？（函館版）
 
-wheredoesmymoney.orgの横浜バージョンです．
+wheredoesmymoney.orgの函館バージョンです．
 
 http://spending.jp/ で稼働しているサイトのソースコードです。
 
