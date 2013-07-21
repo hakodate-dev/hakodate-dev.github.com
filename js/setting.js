@@ -19,18 +19,17 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 /* Hakodate cofog */
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
-  '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
-  '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
-  '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '8': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-
+  '1': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1-1': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#935B3B' },
+  '2': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#0AB971' },
+  '3': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '4': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#D33673' },
+  '5': { icon: 'icons/payroll.svg', color: '#C75746', bcolor: '#2A3A03' },
+  '6': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#EC2406' },
+  '7': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#938626' },
+  '8': { icon: 'icons/c_waterdoun-watersup.svg', color: '#C75746', bcolor: '#C75746' },
+  '9': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#D33673' },
+  '10': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' },
   /* Yokohama cofog */
   // '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   // '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
