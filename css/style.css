@@ -41,7 +41,8 @@ blockquote p {
 }
 
 a {
-  color: #830242;
+  /*color: #830242;*/
+  color: #024282;
 }
 
 .chromeframe {
