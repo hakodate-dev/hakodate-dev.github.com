@@ -12,7 +12,7 @@ var OpenSpending = OpenSpending || {};
 
 // OpenSpending.identifier = 'yokohama_budget'; 
 // OpenSpending.year = '2012';
-OpenSpending.identifier = 'hakodate_budget_dev'; 
+OpenSpending.identifier = 'hakodate_budget'; 
 OpenSpending.year = '2011';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
