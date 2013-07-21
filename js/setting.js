@@ -17,6 +17,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 /* Hakodate cofog */
+  // 健康福祉
   '1-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' },
   '1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' },
@@ -31,6 +32,7 @@ OpenSpending.Styles.Cofog = {
   '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' },
   '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' },
   
+  // 子育て・教育
   '2-2': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#0AB971' },
   '13': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#0AB971' },
   '14': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#0AB971' },
@@ -44,6 +46,7 @@ OpenSpending.Styles.Cofog = {
   '22': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#0AB971' },
   '23': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#0AB971' },
   
+  // 街づくり
   '3-3': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#4E6D00' },
   '24': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#4E6D00' },
   '25': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#4E6D00' },
@@ -54,13 +57,16 @@ OpenSpending.Styles.Cofog = {
   '30': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#4E6D00' },
   '31': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#4E6D00' },
   
+  // 環境
   '4-4': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#D33673' },
   '32': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#D33673' },
   '33': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#D33673' },
   
+  // 市民
   '5-5': { icon: 'icons/payroll.svg', color: '#C75746', bcolor: '#2A3A03' },
   '34': { icon: 'icons/payroll.svg', color: '#C75746', bcolor: '#2A3A03' },
   '35': { icon: 'icons/payroll.svg', color: '#C75746', bcolor: '#2A3A03' },
+  
   
   '6-6': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#EC2406' },
   '36': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#EC2406' },
